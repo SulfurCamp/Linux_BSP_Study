@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/pi_bsp/drivers/p270/p270_minor_ledkey_minor2/modules.order := {   echo /home/ubuntu/pi_bsp/drivers/p270/p270_minor_ledkey_minor2/minor_dev.o; :; } > /home/ubuntu/pi_bsp/drivers/p270/p270_minor_ledkey_minor2/modules.order

@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/pi_bsp/drivers/p270/p270_minor_ledkey_minor2/minor_dev.mod := printf '%s\n'   minor_dev.o | awk '!x[$$0]++ { print("/home/ubuntu/pi_bsp/drivers/p270/p270_minor_ledkey_minor2/"$$0) }' > /home/ubuntu/pi_bsp/drivers/p270/p270_minor_ledkey_minor2/minor_dev.mod

@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/pi_bsp/drivers/p184_ledkey_ksh/p184_ledkey_ksh/call_ledkey_dev.mod := printf '%s\n'   call_ledkey_dev.o | awk '!x[$$0]++ { print("/home/ubuntu/pi_bsp/drivers/p184_ledkey_ksh/p184_ledkey_ksh/"$$0) }' > /home/ubuntu/pi_bsp/drivers/p184_ledkey_ksh/p184_ledkey_ksh/call_ledkey_dev.mod

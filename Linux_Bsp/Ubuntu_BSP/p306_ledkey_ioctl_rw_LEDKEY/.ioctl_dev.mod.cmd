@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/pi_bsp/drivers/p306_ledkey_ioctl_rw_LEDKEY/ioctl_dev.mod := printf '%s\n'   ioctl_dev.o | awk '!x[$$0]++ { print("/home/ubuntu/pi_bsp/drivers/p306_ledkey_ioctl_rw_LEDKEY/"$$0) }' > /home/ubuntu/pi_bsp/drivers/p306_ledkey_ioctl_rw_LEDKEY/ioctl_dev.mod

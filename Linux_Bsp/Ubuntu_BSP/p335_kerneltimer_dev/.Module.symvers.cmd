@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/pi_bsp/drivers/p335_kerneltimer_dev/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ubuntu/pi_bsp/drivers/p335_kerneltimer_dev/Module.symvers -T /home/ubuntu/pi_bsp/drivers/p335_kerneltimer_dev/modules.order -i Module.symvers -e 
